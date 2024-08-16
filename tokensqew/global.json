@@ -1,0 +1,70 @@
+{
+  "1": {
+    "value": "10px",
+    "type": "borderRadius"
+  },
+  "2": {
+    "value": "20px",
+    "type": "borderRadius"
+  },
+  "3": {
+    "value": "30px",
+    "type": "borderRadius"
+  },
+  "radius": {
+    "0": {
+      "value": "10px",
+      "type": "borderRadius"
+    }
+  },
+  "test123": {
+    "value": "0.1%",
+    "type": "opacity"
+  },
+  "test124": {
+    "value": "#14b8a6",
+    "type": "color"
+  },
+  "color2": {
+    "value": "rgba(#14b8a6, .5)",
+    "type": "color"
+  },
+  "color3": {
+    "value": "rgba( {color2} , .5)",
+    "type": "color"
+  },
+  "color3-copyfwe": {
+    "value": "rgba( {color2} , .5)",
+    "type": "color"
+  },
+  "test": {
+    "value": "200",
+    "type": "text"
+  },
+  "test1": {
+    "value": "test",
+    "type": "text"
+  },
+  "font": {
+    "value": "Arial",
+    "type": "fontFamilies"
+  },
+  "typo1": {
+    "value": {
+      "fontFamily": "{font}",
+      "fontWeight": "100px"
+    },
+    "type": "typography"
+  },
+  "typo2": {
+    "value": {
+      "fontFamily": "{typo1.fontFamily}",
+      "fontWeight": "{typo1.fontWeight}"
+    },
+    "type": "typography"
+  },
+  "adfggsfgsdf": {
+    "value": "https://cdn.prod.website-files.com/62efedb360a7998b0e43cb84/63346f8402a4336a0a390e30_CORS.png",
+    "type": "asset"
+  }
+}
