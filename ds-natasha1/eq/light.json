@@ -1,0 +1,268 @@
+{
+  "color": {
+    "icon": {
+      "darkest": {
+        "value": "{color.neutral-warm.grey-5}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-5\n#0E0D0C"
+      },
+      "dark": {
+        "value": "{color.neutral-warm.grey-46}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-46\n#7A7770"
+      },
+      "lightest": {
+        "value": "{color.neutral.white}",
+        "type": "color",
+        "description": "color.neutral.white"
+      },
+      "active": {
+        "value": "{color.primary.raspberry}",
+        "type": "color",
+        "description": "color.primary.raspberry"
+      },
+      "accent": {
+        "value": "{color.primary.yellow}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color.secondary.green}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{color.secondary.red}",
+        "type": "color",
+        "description": "color.secondary.red\n#cb061d"
+      }
+    },
+    "text": {
+      "darkest": {
+        "value": "{color.neutral-warm.grey-5}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-5\n#0E0D0C"
+      },
+      "dark": {
+        "value": "{color.neutral-warm.grey-46}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-46\n#7A7770"
+      },
+      "lightest": {
+        "value": "{color.neutral.white}",
+        "type": "color",
+        "description": "color.neutral.white"
+      },
+      "active": {
+        "value": "{color.primary.raspberry}",
+        "type": "color",
+        "description": "color.primary.raspberry"
+      },
+      "success": {
+        "value": "{color.secondary.green}",
+        "type": "color",
+        "description": "color.secondary.green\n#37862D"
+      },
+      "error": {
+        "value": "{color.secondary.red}",
+        "type": "color",
+        "description": "color.secondary.red"
+      }
+    },
+    "border": {
+      "darkest": {
+        "value": "{color.neutral-warm.grey-5}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-5\n#0E0D0C"
+      },
+      "dark": {
+        "value": "{color.neutral-warm.grey-63}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-63\n#A4A29C"
+      },
+      "light": {
+        "value": "{color.neutral-warm.grey-78}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-78\n#CAC9C6"
+      },
+      "active": {
+        "value": "{color.primary.raspberry}",
+        "type": "color",
+        "description": "color.primary.raspberry"
+      },
+      "success": {
+        "value": "{color.secondary.green}",
+        "type": "color",
+        "description": "color.secondary.green\n#37862D"
+      },
+      "error": {
+        "value": "{color.secondary.red}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "darkest": {
+        "value": "{color.neutral-warm.grey-5}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-5\n#0E0D0C"
+      },
+      "darker": {
+        "value": "{color.neutral-warm.grey-46}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-46\n#7A7770"
+      },
+      "dark": {
+        "value": "{color.neutral-warm.grey-87}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-87\n#DFDFDD"
+      },
+      "light": {
+        "value": "{color.neutral-warm.grey-95}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-95\n#F3F2F1"
+      },
+      "lighter": {
+        "value": "{color.neutral-warm.grey-97}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-97\n#f8f8f8"
+      },
+      "lightest": {
+        "value": "{color.neutral.white}",
+        "type": "color",
+        "description": "color.neutral.white"
+      },
+      "accent": {
+        "value": "{color.primary.yellow}",
+        "type": "color",
+        "description": "color.primary.yellow"
+      },
+      "accent-light": {
+        "value": "{color.secondary.yellow-light}",
+        "type": "color",
+        "description": "color.secondary.yellow-light\n#FFDA66"
+      },
+      "accent-lighter": {
+        "value": "{color.secondary.yellow-lighter}",
+        "type": "color",
+        "description": "color.primary.yellow"
+      },
+      "accent-lightest": {
+        "value": "{color.secondary.yellow-lightest}",
+        "type": "color",
+        "description": "color.secondary.yellow-lightest\n#FFF3CC"
+      },
+      "active": {
+        "value": "{color.primary.raspberry}",
+        "type": "color",
+        "description": "color.primary.raspberry\n#CB3694"
+      },
+      "active-dark": {
+        "value": "{color.secondary.raspberry-dark}",
+        "type": "color",
+        "description": "color.secondary.raspberry-dark\n#A42A77"
+      },
+      "active-light": {
+        "value": "{color.secondary.raspberry-light}",
+        "type": "color",
+        "description": "color.secondary.raspberry-light\n#F7E1EF"
+      },
+      "active-lightest": {
+        "value": "{color.secondary.raspberry-lightest}",
+        "type": "color",
+        "description": "color.secondary.raspberry-lightest\n#FCF5FA"
+      },
+      "success": {
+        "value": "{color.secondary.green}",
+        "type": "color",
+        "description": "color.secondary.green-dark\n#37862D"
+      },
+      "error": {
+        "value": "{color.secondary.red}",
+        "type": "color",
+        "description": "color.secondary.red\n#CB061D"
+      },
+      "bg-default": {
+        "value": "{color.neutral-warm.grey-95}",
+        "type": "color",
+        "description": "color.neutral-warm.grey-95\n#F3F2F1"
+      },
+      "fg-default": {
+        "value": "{color.neutral.white}",
+        "type": "color",
+        "description": "color.neutral.white\n#FFFFFF"
+      }
+    },
+    "component": {
+      "chip": {
+        "surface": {
+          "grey": {
+            "value": "{color.neutral-warm.grey-95}",
+            "type": "color",
+            "description": "color.neutral-warm.grey-95\n#F3F2F1"
+          },
+          "orange": {
+            "value": "{color.pastels.orange}",
+            "type": "color",
+            "description": "color.pastels.orange\n#FFEBD6"
+          },
+          "lime": {
+            "value": "{color.pastels.lime}",
+            "type": "color",
+            "description": "color.pastels.lime\n#F1FFD6"
+          },
+          "green": {
+            "value": "{color.pastels.green}",
+            "type": "color",
+            "description": "color.pastels.green\n#D6FFD6"
+          },
+          "turquoise": {
+            "value": "{color.pastels.turquoise}",
+            "type": "color",
+            "description": "color.pastels.turquoise\n#D6FFF1"
+          },
+          "blue": {
+            "value": "{color.pastels.blue}",
+            "type": "color",
+            "description": "color.pastels.blue\n#D6F1FF"
+          },
+          "purple": {
+            "value": "{color.pastels.purple}",
+            "type": "color",
+            "description": "color.pastels.purple\n#D6D6FF"
+          },
+          "lavender": {
+            "value": "{color.pastels.lavender}",
+            "type": "color",
+            "description": "color.pastels.lavender\n#F1D6FF"
+          },
+          "pink": {
+            "value": "{color.pastels.pink}",
+            "type": "color",
+            "description": "color.pastels.pink\n#FFE0F5"
+          }
+        }
+      },
+      "button-chip": {
+        "hover": {
+          "hover": {
+            "value": "{color.neutral-warm.grey-32}",
+            "type": "color",
+            "description": "color.neutral-warm.grey-32\n#54534E"
+          },
+          "ghost": {
+            "value": "{color.neutral-warm.grey-5}",
+            "type": "color",
+            "description": "color.neutral-warm.grey-5\n#0E0D0C",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.05",
+                  "space": "srgb"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

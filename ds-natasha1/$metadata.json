@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "ref",
+    "eq/light",
+    "eq/dark",
+    "eq/sys",
+    "ref-wireframe",
+    "wireframe/text",
+    "wireframe/color"
+  ]
+}
