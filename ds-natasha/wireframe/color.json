@@ -1,0 +1,104 @@
+{
+  "color": {
+    "icon": {
+      "dark": {
+        "value": "{color.neutral.grey-46}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{color.secondary.blue-light}",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "{color.neutral.black}",
+        "type": "color"
+      },
+      "lightest": {
+        "value": "{color.neutral.white}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "dark": {
+        "value": "{color.neutral.grey-46}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{color.secondary.red}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{color.secondary.blue-light}",
+        "type": "color"
+      },
+      "darker": {
+        "value": "{color.neutral.grey-32}",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "{color.neutral.black}",
+        "type": "color"
+      },
+      "lightest": {
+        "value": "{color.neutral.white}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "dark": {
+        "value": "{color.neutral.grey-63}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{color.neutral.grey-78}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{color.secondary.blue-light}",
+        "type": "color"
+      },
+      "darker": {
+        "value": "{color.neutral.grey-46}",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "{color.neutral.black}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "dark": {
+        "value": "{color.neutral.grey-87}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{color.secondary.red}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{color.neutral.grey-94}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{color.secondary.blue-light}",
+        "type": "color"
+      },
+      "darker": {
+        "value": "{color.neutral.grey-46}",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "{color.neutral.black}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color.secondary.green}",
+        "type": "color"
+      },
+      "lightest": {
+        "value": "{color.neutral.white}",
+        "type": "color"
+      }
+    }
+  }
+}
