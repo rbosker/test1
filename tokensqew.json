@@ -25,7 +25,9 @@
     {
       "id": "16331a7029be9d0479609bc35a4d93005fd8b939",
       "name": "2",
-      "$figmaStyleReferences": {},
+      "$figmaStyleReferences": {
+        "test-1": "S:fe21514f6021448027d6ab97143134fb624afe54,"
+      },
       "selectedTokenSets": {
         "2": "enabled"
       }
