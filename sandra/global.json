@@ -95,6 +95,10 @@
         "100": {
           "value": "#020107",
           "type": "color"
+        },
+        "60-copy": {
+          "value": "#732BC2",
+          "type": "color"
         }
       },
       "esmeralda": {
