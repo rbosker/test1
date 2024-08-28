@@ -34,7 +34,18 @@
   {
     "id": "62f8467cfb078c7338443d5911c0b8feaaf0c358",
     "name": "2",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "fg.default": "S:2343c6277b07323006b77aa809cc19aa411813ca,",
+      "fg.muted": "S:790f745e6b0a7245f7d7894fb30379ea25147865,",
+      "fg.subtle": "S:22eb41f696ff8e9ff78821563dc94cf43aa127f2,",
+      "bg.default": "S:90961f1654602829cae1cc331d71ab70f0eddeea,",
+      "bg.muted": "S:2e16562616a46c6cc4d6b62f767e6b0a8911c4da,",
+      "bg.subtle": "S:721922f80e141c2c6df16d8da0f77a1b6280981b,",
+      "accent.default": "S:0cd5a9c9e8c9dc4e72ab6e9b5388dbad27a18c6c,",
+      "accent.onAccent": "S:dfdcf956dc63b6f6062717c7a8becb809e9b42af,",
+      "accent.bg": "S:17eb1119e39580b27e2f705a57ccb972fb9482f3,",
+      "shadows.default": "S:800c5cc16d8522a5edf1952d67b764534264a60b,"
+    },
     "selectedTokenSets": {
       "core": "source",
       "dark": "enabled",
