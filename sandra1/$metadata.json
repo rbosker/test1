@@ -1,8 +1,7 @@
 {
   "tokenSetOrder": [
     "global",
-    "semantic",
-    "comp1/button",
-    "pattern/card"
+    "test",
+    "test1"
   ]
 }
