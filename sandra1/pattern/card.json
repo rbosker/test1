@@ -1,0 +1,92 @@
+{
+  "color": {
+    "card": {
+      "title": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color",
+        "description": "Change this token to change the font-color of the title pricing card."
+      },
+      "sub-title": {
+        "value": "{semantic.color.fg.subtle}",
+        "type": "color",
+        "description": "Change this token to change the font-color of the sub-title of the pricing card"
+      },
+      "text": {
+        "value": "{semantic.color.fg.default}",
+        "type": "color",
+        "description": "Change this token to change the font-color of the list in pricing card."
+      },
+      "bg": {
+        "value": "{semantic.color.bg.subtle}",
+        "type": "color",
+        "description": "Change this token to change the background color of the default pricing card."
+      },
+      "icon": {
+        "value": "{semantic.color.accent.default}",
+        "type": "color",
+        "description": "Change this token to change the icon color in the default pricing card.\n"
+      }
+    }
+  },
+  "border-radius": {
+    "card": {
+      "default": {
+        "value": "{semantic.border-radius.none}",
+        "type": "borderRadius",
+        "description": "\n"
+      }
+    }
+  },
+  "space": {
+    "card": {
+      "padding-x": {
+        "value": "{semantic.space.around.xl}",
+        "type": "spacing",
+        "description": "Modify this token to change the padding-x of the pricing card\n"
+      },
+      "padding-y": {
+        "value": "{semantic.space.around.xl}",
+        "type": "spacing",
+        "description": "Modify this token to change the padding-y of the pricing card"
+      },
+      "space-between": {
+        "value": "{semantic.space.between.md}",
+        "type": "spacing"
+      },
+      "header-space-between": {
+        "value": "{semantic.space.between.sm}",
+        "type": "spacing"
+      },
+      "footer-space-between": {
+        "value": "{semantic.space.between.sm}",
+        "type": "spacing"
+      }
+    }
+  },
+  "font": {
+    "card": {
+      "title": {
+        "value": "{semantic.font.heading.1}",
+        "type": "typography"
+      },
+      "subtitle": {
+        "value": "{semantic.font.heading.5}",
+        "type": "typography"
+      },
+      "body": {
+        "value": "{semantic.font.md}",
+        "type": "typography"
+      }
+    }
+  },
+  "shadow": {
+    "card": {
+      "value": "{semantic.shadow.none}",
+      "type": "boxShadow"
+    }
+  },
+  "image": {
+    "value": "https://images.squarespace-cdn.com/content/v1/638f488a30bb255b0c725a03/e5a2d591-4885-4488-a161-0356195c1fe6/DSC_6072+%281%29.jpg",
+    "type": "asset"
+  }
+}

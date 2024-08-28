@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "core",
-    "light",
-    "dark",
-    "theme"
+    "global",
+    "semantic",
+    "comp1/button",
+    "pattern/card"
   ]
 }
