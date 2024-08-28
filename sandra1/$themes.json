@@ -3,8 +3,8 @@
     "id": "ce146cbaa0e1c80859ace2849c7912ef70bd03b0",
     "name": "test",
     "$figmaStyleReferences": {
-      "test": "S:7ebe53a337d43a39616a878dd96dd66cb0b5f2a0,",
-      "nerw": "S:54cbb20b8d15a10c900893f5b350bc33f2878732,"
+      "test": "S:e7db20474ec3e957706e77d2c2329940303b5124,",
+      "nerw": "S:f5f0d72043ca5ca293736151fe1b2f8e32900880,"
     },
     "selectedTokenSets": {
       "test": "enabled"
@@ -14,10 +14,7 @@
   {
     "id": "02368113149f4e14fb8f20dc84638d6a70e2cae1",
     "name": "test1",
-    "$figmaStyleReferences": {
-      "test": "S:602939bb41a9814341f503b3259e6f50ecb29791,",
-      "nerw": "S:53c73ce560369912a07f2f17afc82f16d94153e6,"
-    },
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "test1": "enabled"
     },
