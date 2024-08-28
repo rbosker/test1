@@ -38,7 +38,8 @@
       "global.color.esmeralda.100": "S:1d3f1de3e6deb764d733986d84f269f10539d483,"
     },
     "selectedTokenSets": {
-      "global": "enabled"
+      "global": "enabled",
+      "comp1/button": "disabled"
     },
     "group": "global"
   },
@@ -60,7 +61,8 @@
     },
     "selectedTokenSets": {
       "global": "source",
-      "semantic": "enabled"
+      "semantic": "enabled",
+      "comp1/button": "disabled"
     },
     "group": "semantic"
   },
@@ -70,8 +72,8 @@
     "selectedTokenSets": {
       "global": "source",
       "semantic": "source",
-      "comp/button": "enabled",
-      "pattern/card": "enabled"
+      "pattern/card": "enabled",
+      "comp1/button": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.primary.default.border": "S:c02168fa2bd53e6d6fe108a9c43f5aa0d13a509b,",

@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "global",
     "semantic",
-    "comp/button",
+    "comp1/button",
     "pattern/card"
   ]
 }
