@@ -1,23 +1,44 @@
 [
   {
-    "id": "ce146cbaa0e1c80859ace2849c7912ef70bd03b0",
-    "name": "test",
+    "id": "f02933e0dc36ff6d02139bc4aa5bfc43d119c72d",
+    "name": "1",
     "$figmaStyleReferences": {
-      "test": "S:e7db20474ec3e957706e77d2c2329940303b5124,",
-      "nerw": "S:f5f0d72043ca5ca293736151fe1b2f8e32900880,"
+      "fg.default": "S:49a3ebc286ef5da9717cce956db21660425c34d7,",
+      "fg.muted": "S:e260a033c52687849813b4d2d64a99b7b70ada63,",
+      "fg.subtle": "S:f13deef102cd27757ebe1a72e5e3a87162ed0683,",
+      "bg.default": "S:933b581e7af86ae2cfb3981acb68e0ff987c630b,",
+      "bg.muted": "S:791cef73351056eb3787a172b006e147fe4cd00b,",
+      "bg.subtle": "S:2dea49314e8e1c1e0186b8aa45e7648a8f15d4d1,",
+      "accent.default": "S:262684829802ddd76d43281b8aae8ca5c2072c82,",
+      "accent.onAccent": "S:bf451ec694af129e7b3172c684afdfdbd52b34d3,",
+      "accent.bg": "S:0667ce3dd11a0c78ebed392f40a91a220da79780,",
+      "shadows.default": "S:94fc4173b75e9870589867f6f6145f6ff700ba0a,",
+      "button.primary.background": "S:43e97ac2506b6c7a563dd020f1a6d6b69219c4b1,",
+      "button.primary.text": "S:f8ff5f15c39a2742864dfb5a9f842512050045e4,",
+      "card.background": "S:ccb34391646bfe040ff5833f1ab1d7e5e1df0133,"
     },
     "selectedTokenSets": {
-      "test": "enabled"
+      "core": "source",
+      "light": "enabled",
+      "theme": "enabled"
     },
-    "group": "Global"
+    "$figmaCollectionId": "VariableCollectionId:7:36",
+    "$figmaModeId": "7:2",
+    "$figmaVariableReferences": {
+      "button.borderRadius": "6aa8cc67809e693cf6b74422a3e384ad2675065f",
+      "button.borderWidth": "cf032311b7d160910dff30e11155f7653e5cdf04",
+      "card.borderRadius": "5e394cc2113a83b73de5b3f37cddf873cebb0bce",
+      "card.padding": "c678b949a2130e9bd561638f309bcd085aaf2713"
+    }
   },
   {
-    "id": "02368113149f4e14fb8f20dc84638d6a70e2cae1",
-    "name": "test1",
+    "id": "62f8467cfb078c7338443d5911c0b8feaaf0c358",
+    "name": "2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "test1": "enabled"
-    },
-    "group": "Global"
+      "core": "source",
+      "dark": "enabled",
+      "theme": "source"
+    }
   }
 ]
