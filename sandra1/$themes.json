@@ -12,7 +12,9 @@
   {
     "id": "c19c20b77b13582c8952d9cc9717d235d5dc5fb7",
     "name": "2",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "agsd": "S:c6e7ac6ff6b33f04b544b7cc45301b095a537a80,"
+    },
     "selectedTokenSets": {
       "global_Copy": "enabled"
     }
