@@ -1,0 +1,10 @@
+{
+  "String": {
+    "value": "10px",
+    "type": "text"
+  },
+  "Number": {
+    "value": "0.625rem",
+    "type": "dimension"
+  }
+}

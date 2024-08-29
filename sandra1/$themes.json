@@ -6,7 +6,8 @@
       "agsd": "S:73367ddf5d0b54d8f53f010203b23d8f83759ff5,"
     },
     "selectedTokenSets": {
-      "global": "enabled"
+      "global": "enabled",
+      "2/2": "disabled"
     }
   },
   {
@@ -16,7 +17,13 @@
       "agsd": "S:c6e7ac6ff6b33f04b544b7cc45301b095a537a80,"
     },
     "selectedTokenSets": {
-      "global_Copy": "enabled"
+      "global_Copy": "enabled",
+      "2/2": "disabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:1:2",
+    "$figmaModeId": "1:0",
+    "$figmaVariableReferences": {
+      "test": "4597647b7136e65fd459473dd8f282d68f463942"
     }
   }
 ]
