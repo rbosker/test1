@@ -3,11 +3,10 @@
     "id": "671abe61bd11457456246168b5122328d69419f3",
     "name": "1",
     "$figmaStyleReferences": {
-      "agsd": "S:73367ddf5d0b54d8f53f010203b23d8f83759ff5,"
+      "agsd": "S:51cf106c91bbeccdb1fee11cb041c07176407f41,"
     },
     "selectedTokenSets": {
-      "global": "enabled",
-      "2/2": "disabled"
+      "global": "enabled"
     }
   },
   {
@@ -17,8 +16,7 @@
       "agsd": "S:c6e7ac6ff6b33f04b544b7cc45301b095a537a80,"
     },
     "selectedTokenSets": {
-      "global_Copy": "enabled",
-      "2/2": "disabled"
+      "global_Copy": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1:2",
     "$figmaModeId": "1:0",
