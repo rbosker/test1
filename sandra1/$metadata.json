@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
-    "global",
-    "global_Copy",
-    "2/2"
+    "globals",
+    "semantic"
   ]
 }
